@@ -7,7 +7,7 @@ A static, pixel-conscious recreation of the Spotify Web Player home screen, buil
 ## 📸 Preview
 
 <!-- Add a screenshot: put it in /assets and update the path below -->
-![Spotify Web Player Clone](./assets/screenshot.png)
+![Spotify Web Player Clone](./assets/logo.png)
 
 ## ✨ Features
 
@@ -81,4 +81,4 @@ This project is for **educational purposes only**. Spotify and its logo are trad
 ## 👤 Author
 
 **Pranav**
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@your-username](https://github.com/pranavpeshkar7)
